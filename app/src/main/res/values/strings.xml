@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PIC</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="point">Point</string>
+    <string name="bem_vindo">Bem Vindo!</string>
+    <string name="title_activity_pedidos">Point</string>
+    <string name="pedidos">Pedidos</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="enviar_pedido">Enviar Pedido</string>
+    <string name="tela_cliente">Tela do Cliente</string>
+    <string name="realizar_pedido">Realizar Pedido</string>
+    <string name="mesa_00">Mesa 00</string>
+    <string name="inserir">Inserir</string>
+    <string name="aproxime_tag">Insira o numero da mesa e aproxime a Tag NFC</string>
+    <string name="inserir_numero_mesa">Inserir Numero da Mesa</string>
+    <string name="total_gasto">Total gasto até o momento: R$0,00</string>
+    <string-array name="array_Tipos">
+        <item>Bebidas</item>
+        <item>Pizzas</item>
+        <item>Lanches</item>
+        <item>Porções</item>
+    </string-array>
+    <string name="escolha_Tipo">Escolha o tipo de prato</string>
+    <string name="escolha_Prato">Escolha o prato</string>
+    <string-array name="array_Bebidas">
+        <item>Cerveja - R$2,90</item>
+        <item>Suco de Laranja - R$2,10</item>
+        <item>Suco de Uva - R$2,10</item>
+        <item>Refrigerante - R$4,80</item>
+    </string-array>
+    <string-array name="array_Pizzas">
+        <item>Calabreza - R$18,90</item>
+        <item>Catupiry - R$16,90</item>
+        <item>Portuguesa - R$22,10</item>
+        <item>Brigadeiro - R$23,20</item>
+    </string-array>
+    <string-array name="array_Lanches">
+        <item>X-Burguer - R$3,90</item>
+        <item>X-Salada - R$3,10</item>
+        <item>X-Egg - R$4,00</item>
+        <item>X-Tudo - R$5,80</item>
+    </string-array>
+    <string-array name="array_Porcoes">
+        <item>Salame - R$9,30</item>
+        <item>Batata Frita - R$5,40</item>
+        <item>Queijo - R$6,20</item>
+        <item>Peixe Frito - R$11,60</item>
+    </string-array>
+    <string name="title_activity_inserir_numero_mesa">Point</string>
+    <string name="title_activity_fechar_pedido">Point</string>
+    <string name="total_conta">Total da Conta:</string>
+
+</resources>
